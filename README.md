@@ -1,10 +1,10 @@
 
-![MasterHead](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamZrY25xZnhkdjZqdGdjOHE1aWRuemxnM2VkaDB5MTJiZGV1OGtrbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QKDpE67Rc7rpjBmQPj/giphy.webp)
-<h1 align="center">Hi 👋, I'm KANISHKA</h1>
-<h3 align="center">A passionate DataScience & AI/ML learner from India</h3>
+![MasterHead](https://i.ibb.co/Cs2WwhQc/github-header-banner.png)
+
+<h2 align="center">A passionate DataScience & AI/ML learner from India</h2>
 
 <img align="right" alt="Coding" width="500" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamZrY25xZnhkdjZqdGdjOHE1aWRuemxnM2VkaDB5MTJiZGV1OGtrbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/66M6ZwJkTLYikvhrqZ/giphy.webp">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kallu229&label=Profile%20views&color=0e75b6&style=flat" alt="kallu229" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KALLU229&label=Profile%20views&color=0e75b6&style=flat" alt="KALLU229" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kallu229" alt="kallu229" /></a> </p>
 
